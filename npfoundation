@@ -1,0 +1,2450 @@
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utl-8" />
+		<link rel="stylesheet" href="style.css" media="screen and (min-width: 900px)" />
+		<link rel="stylesheet" href='style2.css' type"text/css" />
+		<title>www.npmiesifoundation.com</title>
+		
+
+			<!--[if IE 9]><body class="ie9">< [endif]-->
+			<!--[if IE]><body>< !--[endif]-->
+		
+		
+
+	</head>
+	
+	<body>
+	<div id="bloc_page">
+		<header>
+		
+			<ul>
+				<div id="Menu">
+				
+				<li> 
+				<a href="#">Langue</a>
+				</li>
+				<ul>
+				<li><a href="Anglais.html">Anglais</a></a></li>
+				<li><a href="websitenpfoundation.html">Français</a></a></li>
+				</ul>
+				
+				
+			</ul>
+					
+		
+		
+			<div id="titre_principal">
+				<img src="logo.png" alt="logo" />
+				<h1>NP MIESI FOUNDATION</h1>
+				<h2>Welcome</h2>
+				
+				
+				
+			</div>
+			
+				<nav>
+				<nav><li><a href="MAKE A DONATION.html">MAKE A DONATION</a></li></nav>
+					<p><ul><strong>
+					<li><a href="FOUNDATION.html">FOUNDATION</a></li>
+					<li> <a href="OUR AXES.html">OUR AXES</a></li>
+					<li> <a href="OUR PROJECTS.html">OUR PROJECTS</a></li>
+					<li> <a href="CONTACT_EN.html">CONTACT</a></li>
+					</ul></strong>
+					</p>
+				</nav>
+		</header>
+		<div id="banniere_image">
+		<div id="description_banniere">
+				<div> <img src="PHOTO/image de profil web.jpg" alt="image de profil web" /></div>
+		retrouvez nos actions 
+		</div>
+		
+		</div>
+				<section>
+					<article>
+					<h1><img src="PHOTO/bouton.png" alt="Categor bouton" />PREAMBLE</h1>
+					
+						<p> To get involved initially in humanitarian assistance and the promotion of women's initiatives in the Democratic Republic of Congo, the NZUZI MIESI Foundation, aware of the future and of our demographic weight, took the initiative to bring our positive energies and capacities intrinsic to the development of our nation.</p>
+						<p>Convinced that these ideas cannot be the reflective work and, aware of the need to be able to have a framework of reflection in order to respond to this ideal. </p>
+						<p>Believing that the time has finally come for each Congolese to give the best of himself by engaging in the multisectoral contribution of the populations while addressing alternative strategies for immediate change in different areas for a better tomorrow for our very dear and beautiful country, democratic republic of congo.</p>
+						<p>Whereas it is necessary for those still alive to mark out a path of hope likely to induce immediate change in different areas for a better tomorrow in our dear and beautiful country. </p>
+						<p>Considering that in the foundation, all members are equal in terms of assistance, rights and duties for the evolution of our structure. </p>
+						<p>Conscious of our responsibilities before GOD and the Congolese Nation, Mrs. NZUZI MIESI Pisthou has decided to set up a humanitarian, socio-educational, environmental and cultural foundation called: "NZUZI MIZSI FOUNDATION" in acronym "N.M.F". </p>
+					</article>
+					<aside>
+						<h2>Founder/NGO</h2>
+						<p><img src="PHOTO/PROFIL 02.jpg" alt="PROFIL 02" /></p>
+						<p>NP MIESI FOUNDATION was created on 17/6/2020 on the initiative of Mrs NZUZI MIESI
+a charitable foundation with a humanitarian vocation</p>
+						<p>NZUZI MIESI FOUNDATION « N.M.F » 
+In accordance with Law No. 004/2001 of July 20, 2001 on general provisions applicable to non-profit associations and public utility establishments as amended to date.
+The main headquarters of the foundation at the apartments RCM9D/177 New presidential galleries C/Gombe, D1-2 Arthouse 
+9 handyside street 
+N1c 4ay 
+07462992208
+
+</p>
+					
+						
+					</aside>
+				</section>
+	<footer>
+	
+	<div>
+	<div id="MY PICTURES">
+					<nav>
+					<p><ul><strong>
+					<li><a href="MY PICTURES.html">MY PICTURES</a></li>
+					</ul></strong>
+					</p>
+				</nav>
+	
+	<img src="PHOTO/profil1.jpg" alt="Photographie" /><img src="PHOTO/profil3.jpg" alt="Photographie" />
+	<img src="PHOTO/CELEB1.jpg" alt="Photographie" /><img src="PHOTO/DEC2.jpg" alt="Photographie" />
+	</div>
+	<div id="NOS_OFFRES">
+				<nav>
+					<p><ul><strong>
+					<li><a href="OUR OFFERS.html">OUR OFFERS</a></li>
+					</ul></strong>
+					</p>
+				</nav>
+	</div>
+	
+	
+	<div>
+	
+	<p>Documents: Folders, Statutes Please download here the document statute of the foundaton<br/>Please contact us by the number<br/><strong>
+	Address and Contact Details. 
+	D1-2 Arthouse 9 handyside street N1c 4ay 07462992208, www.npmiesifoundation.com 
+	</p></strong>
+	</div>
+	
+	</footer>
+	</div>
+	
+	</body>
+	
+	
+	
+	</html>
+<!DOCTYPE html>
+<html>
+      <head>
+	  <meta charset="utf-8 />
+	  <title>mon titre</title>
+	  </head>
+	  
+	  
+	  <body> 
+	  <p>bonjour</p> bonjour 
+	  comment ça va ?
+
+	  
+	  
+	  
+	  </body>
+	  
+</html>
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utl-8" />
+			<link rel="stylesheet" href="style1.css" media="screen and (min-width: 900px)" />
+		<title>npmiesifoundation.com</title>
+		
+	</head>
+	
+	<body>
+	
+	<div id="bloc_page">
+		<header>
+		
+		
+		<form action="action.php" method="post">
+		<h2>FORMULAIRE D’ADHÉSION</h2>
+<ul>
+
+<p><li>
+<label for="name"> Nom:</label>
+<input type="text" id="name" name="user_name" autocomplete="off"> 
+</li></p>
+
+<p><li>
+<label for="name"> Prénom:</label>
+<input type="text" id="prénom" name="user_prénom" autocomplete="off"> 
+</li></p>
+
+
+
+<p><li>
+<label for="mail"> E-mail:</label>
+<input type="email" id="mail" name="user_email" autocomplete="off"> 
+</li></p>
+
+<p><li>
+<label for="Télephone"> Télephone:</label>
+<input type="tel" id="Télephone" name="user_Télephone" autocomplete="off"> 
+</li></p>
+
+<p><li>
+<label for="Fixe"> Fixe:</label>
+<input type="tel" id="Fixe" name="user_Fixe" autocomplete="off"> 
+</li></p>
+
+
+<p>
+<label for="pays"> Dans quel pays habitez-vous ?</label>
+<select name="pays"  id="pays"> 
+			
+			<optgroup label="Europe">
+					<option value="Royaume-Uni">Royaume-Uni</option>
+					<option value="france">france</option>
+					<option value="belgique">belgique</option>
+					<option value="Allemagne">Allemagne</option>
+					<option value="Espagne">Espagne</option>
+					<option value="Italie">Italie</option>
+					<option value="Portugal">Portugal</option>
+					<option value="Pays-Bas">Pays-Bas</option>
+					<option value="Russie">Russie</option>
+					<option value="Suisse">Suisse</option>
+					
+			</optgroup>
+					<optgroup label="Amerique">
+					<option value="États-Unis">États-Unis</option>
+					<option value="Canada">Canada</option>
+					<option value="Allemagne">Mexique</option>
+					<option value="Brasil">Brasil</option>
+					<option value="Haïti">Haïti</option>
+					<option value="Jamaïque">Jamaïque</option>
+					<option value="Uruguay">Uruguay</option>
+			</optgroup>
+			
+			
+			</optgroup>
+					<optgroup label="ASIE">
+					<option value="Indee">Inde</option>
+					<option value="Émirats arabes unis">Émirats arabes unis</option>
+					<option value="Israël">Israël</option>
+					<option value="Japon">Japon</option>
+					<option value="Chine">Chine</option>
+					<option value="Qatar">Qatar</option>
+			
+			</optgroup>
+			
+			</optgroup>
+					<optgroup label="AFRIQUE">
+					<option value="République démocratique du Congo">République démocratique du Congo</option>
+					<option value="Afrique du Sud">Afrique du Sud</option>
+					<option value="Algérie">Algérie</option>
+					<option value="Nigeria">Nigeria</option>
+					<option value="Cameroun">Cameroun</option>
+					<option value="Angola">Angola</option>
+					<option value="Ghana">Ghana</option>
+			</optgroup>
+
+
+			</optgroup>
+					<optgroup label="OCÉANIE">
+					<option value="Australie">Australie</option>
+			</optgroup>
+</select>
+</p>
+
+
+<p>
+<label for="name"> autres Pays</label>
+<input type="text" id="autres Pays" name="user_autres Pays" autocomplete="off"></p>
+
+
+
+
+
+
+
+<p>
+Quel est votre Tranche d’Âge:<br />
+<input type="radio" name="age" value="18-24" id="18-24"/><label for="18-24">18-24</label>
+<input type="radio" name="age" value="25-34" id="25-34"/><label for="25-34">25-34</label>
+<input type="radio" name="age" value="35-54" id="35-54"/><label for="35-54">35-54</label>
+<input type="radio" name="age" value="50 ou plus" id="50 ou plus"/><label for="50 ou plus">50 ou plus</label>
+</p>
+
+
+<p>
+VOULEZ-VOUS DEVENIR MEMBRE ? 
+<input type="radio" name="membre" id="Oui"/><label for="Oui">OUI</label>
+<input type="radio" name="membre" id="Non"/><label for="Non">NON</label>
+</p>
+
+
+<p>Types des Membres </p>
+<p>
+<input type="checkbox" name="membre" id="Honneur"/><label for="Honneur">Honneur</label>
+<input type="checkbox" name="membre" id="Effectifr"/><label for="Effectif">Effectifr</label>
+<input type="checkbox" name="membre" id="Sympathisant "/><label for="Sympathisant ">Sympathisant </label>
+</p>
+
+<p><li>
+<label for="msg">Message:</label>
+<textarea id="msg" name="user_message"> </textarea> 
+</li></p>
+
+
+
+<li>
+<button type="Submit" name="Valider"> Envoyer</button>
+</li>
+
+</ul>
+</form>
+		
+			<div id="titre_principal">
+				<img src="logo.png" alt="logo" />
+				<img src="bureau01.JPG" alt="bureau01" />
+				<h1></h1>
+				<h2></h2>
+				
+			</div>
+			
+				
+		</header>
+		<div>
+		
+		</div>
+		
+		</div>
+				<section>
+					<article>
+					
+					</article>
+					<aside>
+					
+					</aside>
+				</section>
+	<footer>
+	
+	<div id="">
+	<h1></h1>
+	
+	
+	</footer>
+	</div>
+	
+	
+	
+	
+	</body>
+	
+	
+	
+	</html>
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utl-8" />
+			<link rel="stylesheet" href="style1.css" media="screen and (min-width: 900px)" />
+		<title>npmiesifoundation.com</title>
+		
+	</head>
+	
+	<body>
+	
+	<div id="bloc_page">
+		<header>
+		
+		
+		<form action="action.php" method="post">
+		<h2>MEMBERSHIP FORM</h2>
+<ul>
+
+<p><li>
+<label for="name"> Name:</label>
+<input type="text" id="name" name="user_name" autocomplete="off"> 
+</li></p>
+
+<p><li>
+<label for="name"> First name:</label>
+<input type="text" id="prénom" name="user_prénom" autocomplete="off"> 
+</li></p>
+
+
+
+<p><li>
+<label for="mail"> E-mail:</label>
+<input type="email" id="mail" name="user_email" autocomplete="off"> 
+</li></p>
+
+<p><li>
+<label for="Télephone"> Phone:</label>
+<input type="tel" id="Télephone" name="user_Télephone" autocomplete="off"> 
+</li></p>
+
+<p><li>
+<label for="Fixe">Fixed:</label>
+<input type="tel" id="Fixe" name="user_Fixe" autocomplete="off"> 
+</li></p>
+
+
+<p>
+<label for="pays"> In which country do you live ?</label>
+<select name="pays"  id="pays"> 
+			
+			<optgroup label="Europe">
+					<option value="Royaume-Uni">Royaume-Uni</option>
+					<option value="france">france</option>
+					<option value="belgique">Belgium</option>
+					<option value="Allemagne">Germany</option>
+					<option value="Espagne">Spain</option>
+					<option value="Italie">Italy</option>
+					<option value="Portugal">Portugal</option>
+					<option value="Pays-Bas">Netherlands</option>
+					<option value="Russie">Russia</option>
+					<option value="Suisse">Swiss</option>
+					
+			</optgroup>
+					<optgroup label="America">
+					<option value="États-Unis">United States</option>
+					<option value="Canada">Canada</option>
+					<option value="Allemagne">Mexico</option>
+					<option value="Brasil">Brasil</option>
+					<option value="Haïti">Haiti</option>
+					<option value="Jamaïque">Jamaica</option>
+					<option value="Uruguay">Uruguay</option>
+			</optgroup>
+			
+			
+			</optgroup>
+					<optgroup label="ASIA">
+					<option value="Indee">India</option>
+					<option value="Émirats arabes unis">United Arab Emirates</option>
+					<option value="Israël">Israel</option>
+					<option value="Japon">Japan</option>
+					<option value="Chine">China</option>
+					<option value="Qatar">Qatar</option>
+			
+			</optgroup>
+			
+			</optgroup>
+					<optgroup label="AFRICA">
+					<option value="République démocratique du Congo">Democratic Republic of Congo</option>
+					<option value="Afrique du Sud">South Africa</option>
+					<option value="Algérie">Algeria</option>
+					<option value="Nigeria">Nigeria</option>
+					<option value="Cameroun">Cameroon</option>
+					<option value="Angola">Angola</option>
+					<option value="Ghana">Ghana</option>
+			</optgroup>
+
+
+			</optgroup>
+					<optgroup label="OCEANIA">
+					<option value="Australie">Australia</option>
+			</optgroup>
+</select>
+</p>
+
+
+<p>
+<label for="name">other countries</label>
+<input type="text" id="autres Pays" name="user_autres Pays" autocomplete="off"></p>
+
+
+
+
+
+
+
+<p>
+What is your Age Range:<br />
+<input type="radio" name="age" value="18-24" id="18-24"/><label for="18-24">18-24</label>
+<input type="radio" name="age" value="25-34" id="25-34"/><label for="25-34">25-34</label>
+<input type="radio" name="age" value="35-54" id="35-54"/><label for="35-54">35-54</label>
+<input type="radio" name="age" value="50 ou plus" id="50 ou plus"/><label for="50 ou plus">50 or more</label>
+</p>
+
+
+<p>
+WANT TO BECOME A MEMBER ? 
+<input type="radio" name="membre" id="Oui"/><label for="Oui">YES</label>
+<input type="radio" name="membre" id="Non"/><label for="Non">NO</label>
+</p>
+
+
+<p>Types of Members</p>
+<p>
+<input type="checkbox" name="membre" id="Honneur"/><label for="Honneur">Honorary</label>
+<input type="checkbox" name="membre" id="Effectifr"/><label for="Effectif">Workforce</label>
+<input type="checkbox" name="membre" id="Sympathisant "/><label for="Sympathisant ">Sympathizer</label>
+</p>
+
+<p><li>
+<label for="msg">Message:</label>
+<textarea id="msg" name="user_message"> </textarea> 
+</li></p>
+
+
+
+<li>
+<button type="Submit" name="Valider">To send</button>
+</li>
+
+</ul>
+</form>
+		
+			<div id="titre_principal">
+				<img src="logo.png" alt="logo" />
+				<img src="bureau01.JPG" alt="bureau01" />
+				<h1></h1>
+				<h2></h2>
+				
+			</div>
+			
+				
+		</header>
+		<div>
+		
+		</div>
+		
+		</div>
+				<section>
+					<article>
+					
+					</article>
+					<aside>
+					
+					</aside>
+				</section>
+	<footer>
+	
+	<div id="">
+	<h1></h1>
+	
+	
+	</footer>
+	</div>
+	
+	
+	
+	
+	</body>
+	
+	
+	
+	</html>
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utl-8" />
+		<title>www.npmiesifoundation.com</title>
+		
+	</head>
+	
+	<body>
+	
+	<div id="bloc_page">
+		<header>
+		<p>FAIRE UN DON ICI</p>
+		<div>
+		<div> 
+	</p></strong>
+	</div>
+		</div>
+		</header>
+		</div>
+				<section>
+					<article>
+					
+					</article>
+					<aside>
+					
+					</aside>
+				</section>
+	<footer>
+	
+	
+	
+	</footer>
+	</div>
+	
+	
+	
+	
+	</body>
+	
+	
+	
+	</html>
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utl-8" />
+		<link rel="stylesheet" href="style1.css" media="screen and (min-width: 900px)" />
+		<title>www.npmiesifoundation.com</title>
+		
+	</head>
+	
+	<body>
+	
+	<div id="bloc_page">
+		<header>
+			<div id="titre_principal">
+				<img src="logo.png" alt="logo" />
+				<h1>LES ACTIONS DE LA FONDATION</h1>
+				<div><img src="022.jpg" alt="022" />,<img src="image de profil web.jpg" alt="image de profil web" />,
+				<img src="PHOTO/DECO3.jpg" alt="DECO3" /></div>
+				<h2></h2>
+				
+				
+			</div>
+			
+			
+		</header>
+		<div>
+		
+		<h2>OBJECTIFS</h2>
+		<p>L'objectif principal de la fondation Nzuzi Pitshou Miesi en abrégé N.P.M.F est d'aider les enfants et les orphelins qui 
+		sont particulièrement dans le besoin, les jeunes qui font l'objet de discrimination dans tous les domaines. Nous sommes là 
+		pour encourager, motiver, soutenir les orphelins et les familles souffrant de troubles mentaux et d'apprentissage et des maladies 
+		chroniques tels que les enfants du kasaï qui souffrent de malnutrition. Notre objectif est de protéger et de subvenir aux besoins 
+		des orphelins qui ont été abandonnés ou ont été abusés sexuellement, physiquement et qui peuvent avoir été touchés par des maladies 
+		telles que le VIH.La Fondation Nzuzi Pitshou Miesi, en abrégé N.P.M.F est une organisation humanitaire, sociale, éducative, 
+		environnementale et culturelle qui travaille pour l'amélioration et la participation des enfants et des jeunes au développement 
+		de  notre pays. Il a un caractère social et éducatif humanitaire, nous invitons chacun à participer à notre progrès et à notre 
+		développement intégral dans tous les secteurs et à aider à mettre en place l'idée principale qui est  de façonner un nouveau 
+		type de citoyen ou en d'autres termes d'éveiller et de cultiver la conscience des jeunes à  appartenir à la société.</p>
+		<P> ELLE POURSUIT LES OBJECTIFS CI-APRÈS :</br>
+		 Assistances humanitaire des orphelins, veuves, vieillards,  et personnes vivantes avec handicaps;</P>
+		 <P>Création des orphelinats, homes de vieillards, centre hospitaliers communautaires; </P>
+		  <P>Soutenir les initiatives féminines ; </P>
+		   <P>Création des centres professionnels ; </P>
+		    <P>Mettre en place une intégration sociale des opprimés par des activités sociales, culturelle et stratégique ;</P>
+			 <P>Établir de partenariats et collaboration avec  d’autres ONG, ASBL, Fondation, Agences;</P>
+			  <P>Privées/Publiques tant  Nationales qu’internationales ;  </P>
+			   <P>Création des fermes agro-alimentaires ;  </P>
+			    <P>Investissement dans l’immobilier ;</P>
+				 <P>L’encadrement et la prise en charge des femmes veuves pour leur réinsertion sociale ; </P>
+				  <P>Lutter contre l’analphabétisme et le chômage des femmes veuves ;  </P>
+				   <P>Organiser des campagnes de sensibilisation et des semaines de formation sur les droits des femmes veuves ; </P>
+				    <P>Contribuer activement à la réinsertion des femmes veuves sur le plan professionnel, social, économique, culturel, par l’ouverture des centres de formation ;  </P>
+					 <P>Venir en aide aux femmes victimes de tout types de violence ; </P>
+						<P>En tout autre objectif à caractère social se rapportant à la situation des femmes.</P>
+		
+		
+		</div>
+		
+		</div>
+				<section>
+					<article>
+					
+					
+					</article>
+					<aside>
+					<h1>Les fondateurs</h1>
+					<P><img src="PHOTO/profil1.JPG" alt="profil1" /></br></P>
+					<P>Madame NZUZI MIESI Présidente et fondatrice de l'assocition NP MIESI</P>
+					
+					<P><img src="Wendy2.JPG" alt="Wendy2" /></br></P>
+					<P>MIESI Wendy  : Vice-Présidente</P>
+					
+					<P>VONDA DIASONAMA Dimci : Adm. Chargé des Finances</P>
+					<P><img src="JOEL MIDI.JPG" alt="JOEL MIDI" /></br></P>
+					<P>MIDI MILAMBU Joel : Chargé de l'Administration</P>
+					
+					<P><img src="chris leya.JPG" alt="chris leya" /></br></P>
+					<P>Chris LEYA : Chargé des Projets</P>
+					
+					<P><img src="Jules Ndolomingi.JPG" alt="Jules Ndolomingi" /></br></P>
+					<P>NDOLOMINGO SAMUEL Jules : Chargé des Rélations Publiques</P>
+					
+					<P><img src="Dimci Vonda.JPG" alt="Dimci Vonda" /></br></P>
+					<P>Dimci VONDA : Trésorière</P>
+					
+					
+					</aside>
+				</section>
+	<footer>
+	<p>Les Documents : Dépliants, Statuts Veuillez télécharger ici le document statut de la fondaton<br/>Veuillez nous contacter par le numero<br/><strong>
+	L’Adresse et les Coordonnées de Contact. 
+	Le Siège social principal  de la fondation aux appartements  RCM9D/177 Nouvelles galeries présidentielles C/Gombe 
+	Card Number : 4921 8174 0046 6244 D1-2 Arthouse 9 handyside street N1c 4ay 07462992208; www.npmiesifoundation.com</p></strong> 
+	
+	
+	</footer>
+	</div>
+	
+	
+	
+	
+	</body>
+	
+	
+	
+	</html>
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utl-8" />
+		<link rel="stylesheet" href="style1.css" media="screen and (min-width: 900px)" />
+		<title>www.npmiesifoundation.com</title>
+		
+	</head>
+	
+	<body>
+	
+	<div id="bloc_page">
+		<header>
+			<div id="titre_principal">
+				<img src="logo.png" alt="logo" />
+				<h1>THE FOUNDATION'S ACTIONS</h1>
+				<div><img src="022.jpg" alt="022" />,<img src="image de profil web.jpg" alt="image de profil web" />,
+				<img src="PHOTO/DECO3.jpg" alt="DECO3" /></div>
+				<h2></h2>
+				
+				
+			</div>
+			
+			
+		</header>
+		<div>
+		
+		<h2>the objectives of the foundation</h2>
+		<p>The main objective of the Nzuzi Pitshou Miesi Foundation, abbreviated as N.P.M.F, is to help children and orphans who
+particularly in need are young people who are discriminated against in all areas. We are here
+to encourage, motivate, support orphans and families with mental and learning disabilities and illnesses
+chronic such as the children of Kasai who suffer from malnutrition. Our goal is to protect and provide for the needs
+orphans who have been abandoned or abused sexually, physically and who may have been affected by diseases
+such as HIV. The Nzuzi Pitshou Miesi Foundation, abbreviated N.P.M.F is a humanitarian, social, educational,
+environmental and cultural organization that works for the improvement and participation of children and young people in the development
+of our country. It has a humanitarian social and educational character, we invite everyone to participate in our progress and our
+integral development in all sectors and to help implement the main idea of ​​shaping a new
+type of citizen or in other words to awaken and cultivate the awareness of young people to belong to society.</p>
+		<P> IT PURSUES THE FOLLOWING OBJECTIVES:</br>
+		 Humanitarian assistance for orphans, widows, old people, and living people with disabilities;</P>
+		 <P>Creation of orphanages, old people's homes, community hospital centers; </P>
+		  <P>Support women's initiatives;</P>
+		   <P>Creation of professional centers;</P>
+		    <P>Establish social integration of the oppressed through social, cultural and strategic activities;</P>
+			 <P>Establish partnerships and collaboration with other NGOs, ASBLs, Foundations, Agencies;</P>
+			  <P>Private/Public both National and International;</P>
+			   <P>Creation of agro-food farms;</P>
+			    <P>Investment in real estate;</P>
+				 <P>Supervision and care of widowed women for their social reintegration;</P>
+				  <P>Fight against illiteracy and unemployment among widowed women;</P>
+				   <P>Organize awareness campaigns and training weeks on the rights of widowed women;</P>
+				    <P>Contribute actively to the reintegration of widowed women on the professional, social, economic and cultural levels, by opening training centers;</P>
+					 <P>Help women who are victims of all types of violence;</P>
+						<P>Any other objective of a social nature relating to the situation of women.</P>
+		
+		
+		</div>
+		
+		</div>
+				<section>
+					<article>
+					
+					
+					</article>
+					<aside>
+					<h1>The founders</h1>
+					<P><img src="PHOTO/profil1.JPG" alt="profil1" /></br></P>
+					<P>Madame NZUZI MIESI President and founder of the association NP MIESI</P>
+					
+					<P><img src="Wendy2.JPG" alt="Wendy2" /></br></P>
+					<P>MIESI Wendy: Vice-President</P>
+					
+					<P>VONDA DIASONAMA Dimci: Adm. Finance Officer</P>
+					<P><img src="JOEL MIDI.JPG" alt="JOEL MIDI" /></br></P>
+					<P>MIDI MILAMBU Joel: Administration Officer</P>
+					
+					<P><img src="chris leya.JPG" alt="chris leya" /></br></P>
+					<P>Chris LEYA: Project Manager</P>
+					
+					<P><img src="Jules Ndolomingi.JPG" alt="Jules Ndolomingi" /></br></P>
+					<P>NDOLOMINGO SAMUEL Jules: Public Relations Officer</P>
+					
+					<P><img src="Dimci Vonda.JPG" alt="Dimci Vonda" /></br></P>
+					<P>Dimci VONDA: Treasurer</P>
+					
+					
+					</aside>
+				</section>
+	<footer>
+	<p>Documents: Leaflets, Statutes Please download here the document statute of the foundaton<br/>Please contact us by the number<br/><strong>
+Address and Contact Details.
+The main headquarters of the foundation at the apartments RCM9D/177 New presidential galleries C/Gombe
+Card Number: 4921 8174 0046 6244 D1-2 Arthouse 9 handyside street N1c 4ay 07462992208; www.npmiesifoundation.com</p></strong> 
+	
+	
+	</footer>
+	</div>
+	
+	
+	
+	
+	</body>
+	
+	
+	
+	</html>
+<?php
+
+// Page créé par Shepard [Fabian Pijcke] <Shepard8@laposte.net>
+// Arno Esterhuizen <arno.esterhuizen@gmail.com>
+// et Romain Bourdon <rromain@romainbourdon.com>
+// et Hervé Leclerc <herve.leclerc@alterway.fr>
+//  
+// Mise a jour par Herve Leclerc herve.leclerc@alterway.fr
+// Ici par Mark James <http://www.famfamfam.com/lab/icons/silk/>
+
+
+
+//chemin jusqu'au fichier de conf de WampServer
+$wampConfFile = '../wampmanager.conf';
+
+//chemin jusqu'aux fichiers alias
+$aliasDir = '../alias/';
+
+//chemin jusqu'aux fichiers vhosts
+$vhostsDir = '../vhosts/';
+
+// on charge le fichier de conf locale
+if (!is_file($wampConfFile))
+    die ('Unable to open WampServer\'s config file, please change path in index.php file');
+//require $wampConfFile;
+$fp = fopen($wampConfFile,'r');
+$wampConfFileContents = fread ($fp, filesize ($wampConfFile));
+fclose ($fp);
+
+
+//on rs les versions des applis
+preg_match('|phpVersion = (.*)\n|',$wampConfFileContents,$result);
+$phpVersion = str_replace('"','',$result[1]);
+preg_match('|apacheVersion = (.*)\n|',$wampConfFileContents,$result);
+$apacheVersion = str_replace('"','',$result[1]);
+preg_match('|mysqlVersion = (.*)\n|',$wampConfFileContents,$result);
+$mysqlVersion = str_replace('"','',$result[1]);
+preg_match('|wampserverVersion = (.*)\n|',$wampConfFileContents,$result);
+$wampserverVersion = str_replace('"','',$result[1]);
+
+
+
+// repertoires  gnorer dans les projets
+$projectsListIgnore = array ('.','..');
+
+
+// textes
+$langues = array(
+	'en' => array(
+		'langue' => 'English',
+		'autreLangue' => 'Version Fran&ccedil;aise',
+		'autreLangueLien' => 'fr',
+		'titreHtml' => 'WAMPSERVER Homepage',
+		'titreConf' => 'Server Configuration',
+		'versa' => 'Apache Version :',
+		'versp' => 'PHP Version :',
+		'versm' => 'MySQL Version :',
+		'phpExt' => 'Loaded Extensions : ',
+		'titrePage' => 'Tools',
+		'txtProjet' => 'Your Projects',
+		'txtNoProjet' => 'No projects yet.<br />To create a new one, just create a directory in \'www\'.',
+		'txtAlias' => 'Your Aliases',
+		'txtNoAlias' => 'No Alias yet.<br />To create a new one, use the WAMPSERVER menu.',
+		'txtVhosts' => 'Your Virtual Hosts',
+		'txtNoVhosts' => 'No Virtual Hosts yet.<br />To create a new one, use the WAMPSERVER menu.',
+		'faq' => 'http://www.en.wampserver.com/faq.php'
+	),
+	'fr' => array(
+		'langue' => 'Fran?s',
+		'autreLangue' => 'English Version',
+		'autreLangueLien' => 'en',
+		'titreHtml' => 'Accueil WAMPSERVER',
+		'titreConf' => 'Configuration Serveur',
+		'versa' => 'Version de Apache:',
+		'versp' => 'Version de PHP:',
+		'versm' => 'Version de MySQL:',
+		'phpExt' => 'Extensions Charg&eacute;es: ',
+		'titrePage' => 'Outils',
+		'txtProjet' => 'Vos Projets',
+		'txtNoProjet' => 'Aucun projet.<br /> Pour en ajouter un nouveau, cr&eacute;ez simplement un r&eacute;pertoire dans \'www\'.',
+		'txtAlias' => 'Vos Alias',
+		'txtNoAlias' => 'Aucun alias.<br /> Pour en ajouter un nouveau, utilisez le menu de WAMPSERVER.',
+		'txtVhosts' => 'Vos Virtual Hosts',
+		'txtNoVhosts' => 'Aucun Virtual Hosts encore.<br />Pour en ajouter un nouveau, utilisez le menu de WAMPSERVER.',
+		'faq' => 'http://www.wampserver.com/faq.php'
+	)
+);
+
+
+
+// images
+$pngFolder = <<< EOFILE
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAA3NCSVQICAjb4U/gAAABhlBMVEX//v7//v3///7//fr//fj+/v3//fb+/fT+/Pf//PX+/Pb+/PP+/PL+/PH+/PD+++/+++7++u/9+vL9+vH79+r79+n79uj89tj89Nf889D88sj78sz78sr58N3u7u7u7ev777j67bL67Kv46sHt6uP26cns6d356aP56aD56Jv45pT45pP45ZD45I324av344r344T14J734oT34YD13pD24Hv03af13pP233X025303JL23nX23nHz2pX23Gvn2a7122fz2I3122T12mLz14Xv1JPy1YD12Vz02Fvy1H7v04T011Py03j011b01k7v0n/x0nHz1Ejv0Hnuz3Xx0Gvz00buzofz00Pxz2juz3Hy0TrmznzmzoHy0Djqy2vtymnxzS3xzi/kyG3jyG7wyyXkwJjpwHLiw2Liw2HhwmDdvlXevVPduVThsX7btDrbsj/gq3DbsDzbrT7brDvaqzjapjrbpTraojnboTrbmzrbmjrbl0Tbljrakz3ajzzZjTfZijLZiTJdVmhqAAAAgnRSTlP///////////////////////////////////////8A////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////9XzUpQAAAAlwSFlzAAALEgAACxIB0t1+/AAAAB90RVh0U29mdHdhcmUATWFjcm9tZWRpYSBGaXJld29ya3MgOLVo0ngAAACqSURBVBiVY5BDAwxECGRlpgNBtpoKCMjLM8jnsYKASFJycnJ0tD1QRT6HromhHj8YMOcABYqEzc3d4uO9vIKCIkULgQIlYq5haao8YMBUDBQoZWIBAnFtAwsHD4kyoEA5l5SCkqa+qZ27X7hkBVCgUkhRXcvI2sk3MCpRugooUCOooWNs4+wdGpuQIlMDFKiWNbO0dXTx9AwICVGuBQqkFtQ1wEB9LhGeAwDSdzMEmZfC0wAAAABJRU5ErkJggg==
+EOFILE;
+$pngFolderGo = <<< EOFILE
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJISURBVDjLpZPLS5RhFIef93NmnMIRSynvgRF5KWhRlmWbbotwU9sWLupfCBeBEYhQm2iVq1oF0TKIILIkMgosxBaBkpFDmpo549y+772dFl5bBIG/5eGch9+5KRFhOwrYpmIAk8+OjScr29uV2soTotzXtLOZLiD6q0oBUDjY89nGAJQErU3dD+NKKZDVYpTChr9a5sdvpWUtClCWqBRxZiE/9+o68CQGgJUQr8ujn/dxugyCSpRKkaw/S33n7QQigAfxgKCCitqpp939mwCjAvEapxOIF3xpBlOYJ78wQjxZB2LAa0QsYEm19iUQv29jBihJeltCF0F0AZNbIdXaS7K6ba3hdQey6iBWBS6IbQJMQGzHHqrarm0kCh6vf2AzLxGX5eboc5ZLBe52dZBsvAGRsAUgIi7EFycQl0VcDrEZvFlGXBZshtCGNNa0cXVkjEdXIjBb1kiEiLd4s4jYLOKy9L1+DGLQ3qKtpW7XAdpqj5MLC/Q8uMi98oYtAC2icIj9jdgMYjNYrznf0YsTj/MOjzCbTXO48RR5XaJ35k2yMBCoGIBov2yLSztNPpHCpwKROKHVOPF8X5rCeIv1BuMMK1GOI02nyZsiH769DVcBYXRneuhSJ8I5FCmAsNomrbPsrWzGeocTz1x2ht0VtXxKj/Jl+v1y0dCg/vVMl4daXKg12mtCq9lf0xGcaLnA2Mw7hidfTGhL5+ygROp/v/HQQLB4tPlMzcjk8EftOTk7KHr1hP4T0NKvFp0vqyl5F18YFLse/wPLHlqRZqo3CAAAAABJRU5ErkJggg==
+EOFILE;
+$gifLogo = <<< EOFILE
+iVBORw0KGgoAAAANSUhEUgAAAGAAAABTCAYAAABgdgI7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAA2RpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
+bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
+eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEz
+NDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJo
+dHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlw
+dGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEu
+MC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVz
+b3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1N
+Ok9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1ODg0QkM3NUZBMDhFMDExODkyQ0U2NkE5ODVB
+M0Q2OSIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDoyMEQ2RDU5MDA5M0UxMUUwOUUwRkYwRTg2
+NjQyMzQzQyIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDoyMEQ2RDU4RjA5M0UxMUUwOUUwRkYw
+RTg2NjQyMzQzQyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdpbmRvd3Mi
+PiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo1ODg0QkM3NUZB
+MDhFMDExODkyQ0U2NkE5ODVBM0Q2OSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo1ODg0QkM3
+NUZBMDhFMDExODkyQ0U2NkE5ODVBM0Q2OSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRG
+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
+EOFILE;
+$pngPlugin = <<< EOFILE
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsSAAALEgHS3X78AAAABGdBTUEAALGOfPtRkwAAACBjSFJNAAB6JQAAgIMAAPn/AACA6QAAdTAAAOpgAAA6mAAAF2+SX8VGAAABmklEQVR42mL4//8/AyUYIIDAxK5du1BwXEb3/9D4FjBOzZ/wH10ehkF6AQIIw4B1G7b+D09o/h+X3gXG4YmteA0ACCCsLghPbPkfm9b5PzK5439Sdg9eAwACCEyANMBwaFwTGIMMAOEQIBuGA6Mb/qMbABBAEAOQnIyMo1M74Tgiqf2/b3gVhgEAAQQmQuKa/8ekdYMxyLCgmEYMHJXc9t87FNMAgACCGgBxIkgzyDaQU5FxQGQN2AUBUXX/vULKwdgjsOQ/SC9AAKEEYlB03f+oFJABdSjYP6L6P0guIqkVjt0DisEGAAQQigEgG0AhHxBVi4L9wqvBBiEHtqs/xACAAAIbEBBd/x+Eg2ObwH4FORmGfYCaQRikCUS7B5YBNReBMUgvQABBDADaAtIIwsEx9f/Dk9pQsH9kHTh8XANKMAIRIIDAhF9ELTiQQH4FaQAZCAsskPNhyRpkK7oBAAEEMSC8GsVGkEaYIlBghcU3gbGzL6YBAAEEJnzCgP6EYs/gcjCGKQI5G4Z9QiswDAAIIAZKszNAgAEAHgFgGSNMTwgAAAAASUVORK5CYII=
+EOFILE;
+$pngWrench = <<< EOFILE
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAA3NCSVQICAjb4U/gAAABO1BMVEXu7u7n5+fk5OTi4uLg4ODd3d3X19fV1dXU1NTS0tLPz8+7z+/MzMy6zu65ze65zu7Kysq3zO62zO3IyMjHx8e1yOiyyO2yyOzFxcXExMSyxue0xuexxefDw8OtxeuwxOXCwsLBwcGuxOWsw+q/v7+qweqqwuqrwuq+vr6nv+qmv+m7u7ukvumkvemivOi5ubm4uLicuOebuOeat+e0tLSYtuabtuaatuaXteaZteaatN6Xs+aVs+WTsuaTsuWRsOSrq6uLreKoqKinp6elpaWLqNijo6OFpt2CpNyAo92BotyAo9+dnZ18oNqbm5t4nt57nth7ntp4nt15ndp3nd6ZmZmYmJhym956mtJzm96WlpaVlZVwmNyTk5Nvl9lultuSkpKNjY2Li4uKioqIiIiHh4eGhoZQgtVKfNFdha6iAAAAaXRSTlMA//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////914ivwAAAACXBIWXMAAAsSAAALEgHS3X78AAAAH3RFWHRTb2Z0d2FyZQBNYWNyb21lZGlhIEZpcmV3b3JrcyA4tWjSeAAAAKFJREFUGJVjYIABASc/PwYkIODDxBCNLODEzGiQgCwQxsTlzJCYmAgXiGKVdHFxYEuB8dkTOIS1tRUVocaIWiWI8IiIKKikaoD50kYWrpwmKSkpsRC+lBk3t2NEMgtMu4wpr5aeuHcAjC9vzadjYyjn7w7lK9kK6tqZK4d4wBQECenZW6pHesEdFC9mbK0W7otwsqenqmpMILIn4tIzgpG4ADUpGMOpkOiuAAAAAElFTkSuQmCC
+EOFILE;
+$favicon = <<< EOFILE
+iVBORw0KGgoAAAANSUhEUgAAAB8AAAAfCAYAAAAfrhY5AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAA2RpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
+bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
+eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEz
+NDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJo
+dHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlw
+dGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEu
+MC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVz
+b3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1N
+Ok9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1ODg0QkM3NUZBMDhFMDExODkyQ0U2NkE5ODVB
+M0Q2OSIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDoxRkI1ODNGRTA5MDMxMUUwQjAwNEEwODc0
+OTk5N0ZEOCIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDoxRkI1ODNGRDA5MDMxMUUwQjAwNEEw
+ODc0OTk5N0ZEOCIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdpbmRvd3Mi
+PiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo1ODg0QkM3NUZB
+MDhFMDExODkyQ0U2NkE5ODVBM0Q2OSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo1ODg0QkM3
+NUZBMDhFMDExODkyQ0U2NkE5ODVBM0Q2OSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRG
+PiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PiUukzAAAAHHSURBVHja5FfRccIwDLVz
+/W+7QdggbJBM0HQCwg+/LRNwTJDymx9ggmYDsgEZwRuUDVI5ET1XyE5CuIa76k7ABVtPluQnRVZV
+JcYST4woD85/ZRbC5wxUf/sdbZagBehGVAvlNM+GXWYaaIugQ+QDdA1OnLqByyyAzwPo042iqyMx
+BwdKN7jMNODREWKFyonv2KdPPqERoDlPGQMKQ7drPWPjfAy6Inb080/QiK/2Js8JMacBpzWwzGIs
+QFdxhujkFMNtSkj3m1ftjTnxEg0f0XNXAYb1mmatwFPSFM1s4NTwuUp18QU9CiyonWj2rhkHWXAK
+kNeh7gdMQ5wzRdnKcAo9DwZcsRBtqL70qm7Ior3B/5zbI0IKrvv8mxarhXSsXtrY8m5OfjB+F5SN
+BkhKrpi8635uaxAvkO9HpgZSB/v57f2cFpEQzz+UeZ28Yvq+bMXpkb5rSgwLc+Z5Fylwb+y68x4p
+MlNW2CLnPUmnrE/d7F1dOGXJ+Qb0neQqre9ptZiAscTI38ng7YTQ8g6Budlg75pktkxPV9idctss
+1mGYOKciupsxatQB8pJkmkUTpgCvHZ0jDtg+t4/60vAf3tVGBf8WYAC3Rq8Ub3mHyQAAAABJRU5E
+rkJggg==
+EOFILE;
+
+
+//affichage du phpinfo
+if (isset($_GET['phpinfo']))
+{
+	phpinfo();
+	exit();
+}
+
+
+//affichage des images
+if (isset($_GET['img']))
+{
+    switch ($_GET['img'])
+    {
+        case 'pngFolder' :
+        header("Content-type: image/png");
+        echo base64_decode($pngFolder);
+        exit();
+        
+        case 'pngFolderGo' :
+        header("Content-type: image/png");
+        echo base64_decode($pngFolderGo);
+        exit();
+        
+        case 'gifLogo' :
+        header("Content-type: image/gif");
+        echo base64_decode($gifLogo);
+        exit();
+        
+        case 'pngPlugin' :
+        header("Content-type: image/png");
+        echo base64_decode($pngPlugin);
+        exit();
+        
+        case 'pngWrench' :
+        header("Content-type: image/png");
+        echo base64_decode($pngWrench);
+        exit();
+        
+        case 'favicon' :
+        header("Content-type: image/x-icon");
+        echo base64_decode($favicon);
+        exit();
+    }
+}
+
+
+
+// Definition de la langue et des textes
+
+if (isset ($_GET['lang']))
+{
+  $langue = htmlspecialchars($_GET['lang'],ENT_QUOTES);
+  if ($langue != 'en' && $langue != 'en' ) {
+   $langue = 'fr';
+  }
+}
+elseif (isset ($_SERVER['HTTP_ACCEPT_LANGUAGE']) AND preg_match("/^fr/", $_SERVER['HTTP_ACCEPT_LANGUAGE']))
+{
+	$langue = 'fr';
+}
+else
+{
+	$langue = 'en';
+}
+
+//initialisation
+$aliasContents = '';
+
+// recuperation des alias
+if (is_dir($aliasDir))
+{
+    $handle=opendir($aliasDir);
+    while ($file = readdir($handle)) 
+    {
+	    if (is_file($aliasDir.$file) && strstr($file, '.conf'))
+	    {		
+		    $msg = '';
+		    $aliasContents .= '<li><a href="'.str_replace('.conf','',$file).'/">'.str_replace('.conf','',$file).'</a></li>';
+	    }
+    }
+    closedir($handle);
+}
+if (!isset($aliasContents))
+	$aliasContents = $langues[$langue]['txtNoAlias'];
+
+
+$vhostsContents = '';
+
+// recuperation des vhosts
+if (is_dir($vhostsDir))
+{
+    $handle=opendir($vhostsDir);
+    while ($file = readdir($handle)) 
+    {
+	    if (is_file($vhostsDir.$file) && strstr($file, '.conf'))
+	    {		
+		    $msg = '';
+		    $vhostsContents .= '<li><a href="http://'.str_replace('.conf','',$file).'/">http://'.str_replace('.conf','',$file).'</a></li>';
+	    }
+    }
+    closedir($handle);
+}
+if (!isset($vhostsContents))
+	$vhostsContents = $langues[$langue]['txtNovhosts'];
+
+
+
+// recuperation des projets
+$handle=opendir(".");
+$projectContents = '';
+while ($file = readdir($handle)) 
+{
+	if (is_dir($file) && !in_array($file,$projectsListIgnore)) 
+	{		
+		$projectContents .= '<li><a href="'.$file.'">'.$file.'</a></li>';
+	}
+}
+closedir($handle);
+if (!isset($projectContents))
+	$projectContents = $langues[$langue]['txtNoProjet'];
+
+
+//initialisation
+$phpExtContents = '';
+
+// recuperation des extensions PHP
+$loaded_extensions = get_loaded_extensions();
+foreach ($loaded_extensions as $extension)
+	$phpExtContents .= "<li>${extension}</li>";
+
+
+
+
+$pageContents = <<< EOPAGE
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+	"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html lang="en" xml:lang="en">
+<head>
+	<title>{$langues[$langue]['titreHtml']}</title>
+	<meta http-equiv="Content-Type" content="txt/html; charset=utf-8" />
+
+	<style type="text/css">
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	background: #ddd;
+}
+body {
+	margin: 1em 10%;
+	padding: 1em 3em;
+	font: 80%/1.4 tahoma, arial, helvetica, lucida sans, sans-serif;
+	border: 1px solid #999;
+	background: #eee;
+	position: relative;
+}
+#head {
+	margin-bottom: 1.8em;
+	margin-top: 1.8em;
+	padding-bottom: 0em;
+	border-bottom: 1px solid #999;
+	letter-spacing: -500em;
+	text-indent: -500em;
+	height: 125px;
+	background: url(index.php?img=gifLogo) 0 0 no-repeat;
+}
+.utility {
+	position: absolute;
+	right: 4em;
+	top: 145px;
+	font-size: 0.85em;
+}
+.utility li {
+	display: inline;
+}
+
+h2 {
+	margin: 0.8em 0 0 0;
+}
+
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+#head ul li, dl ul li, #foot li {
+	list-style: none;
+	display: inline;
+	margin: 0;
+	padding: 0 0.2em;
+}
+ul.vhosts, ul.aliases, ul.projects, ul.tools {
+	list-style: none;
+	line-height: 24px;
+}
+ul.vhosts a, ul.aliases a, ul.projects a, ul.tools a {
+	padding-left: 22px;
+	background: url(index.php?img=pngFolder) 0 100% no-repeat;
+}
+ul.tools a {
+	background: url(index.php?img=pngWrench) 0 100% no-repeat;
+}
+ul.aliases a {
+	background: url(index.php?img=pngFolderGo) 0 100% no-repeat;
+}
+ul.vhosts a {
+	background: url(index.php?img=pngFolderGo) 0 100% no-repeat;
+}
+dl {
+	margin: 0;
+	padding: 0;
+}
+dt {
+	font-weight: bold;
+	text-align: right;
+	width: 11em;
+	clear: both;
+}
+dd {
+	margin: -1.35em 0 0 12em;
+	padding-bottom: 0.4em;
+	overflow: auto;
+}
+dd ul li {
+	float: left;
+	display: block;
+	width: 16.5%;
+	margin: 0;
+	padding: 0 0 0 20px;
+	background: url(index.php?img=pngPlugin) 2px 50% no-repeat;
+	line-height: 1.6;
+}
+a {
+	color: #024378;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:hover {
+	color: #04569A;
+	text-decoration: underline;
+}
+#foot {
+	text-align: center;
+	margin-top: 1.8em;
+	border-top: 1px solid #999;
+	padding-top: 1em;
+	font-size: 0.85em;
+}
+</style>
+    
+	<link rel="shortcut icon" href="index.php?img=favicon" type="image/ico" />
+</head>
+
+<body>
+	<div id="head">
+		<h1><abbr title="Windows">W</abbr><abbr title="Apache">A</abbr><abbr title="MySQL">M</abbr><abbr title="PHP">P</abbr></h1>
+		<ul>
+			<li>PHP 5</li>
+			<li>Apache 2</li>
+			<li>MySQL 5</li>
+		</ul>
+	</div>
+
+	<ul class="utility">
+		<li>Version ${wampserverVersion}</li>
+		<li><a href="?lang={$langues[$langue]['autreLangueLien']}">{$langues[$langue]['autreLangue']}</a></li>
+	</ul>
+
+	<h2> {$langues[$langue]['titreConf']} </h2>
+
+	<dl class="content">
+		<dt>{$langues[$langue]['versa']}</dt>
+		<dd>${apacheVersion} &nbsp;</dd>
+		<dt>{$langues[$langue]['versp']}</dt>
+		<dd>${phpVersion} &nbsp;</dd>
+		<dt>{$langues[$langue]['phpExt']}</dt> 
+		<dd>
+			<ul>
+			${phpExtContents}
+			</ul>
+		</dd>
+		<dt>{$langues[$langue]['versm']}</dt>
+		<dd>${mysqlVersion} &nbsp;</dd>
+	</dl>
+	<h2>{$langues[$langue]['titrePage']}</h2>
+	<ul class="tools">
+		<li><a href="?phpinfo=1">phpinfo()</a></li>
+		<li><a href="phpmyadmin/">phpmyadmin</a></li>
+	</ul>
+	<h2>{$langues[$langue]['txtProjet']}</h2>
+	<ul class="projects">
+	$projectContents
+	</ul>
+	<h2>{$langues[$langue]['txtVhosts']}</h2>
+	<ul class="vhosts">
+	${vhostsContents}			
+	</ul>
+	<h2>{$langues[$langue]['txtAlias']}</h2>
+	<ul class="aliases">
+	${aliasContents}			
+	</ul>
+	<ul id="foot">
+		<li><a href="http://www.wampserver.com">WampServer</a></li> - 
+        <li><a href="http://www.wampserver.com/en/donations.php">Donate</a></li> -
+		<li><a href="http://www.alterway.fr">Alter Way</a></li>
+	</ul>
+</body>
+</html>
+EOPAGE;
+
+echo $pageContents;
+?>
+
+{\rtf1\ansi\ansicpg1252\deff0\deftab0
+
+{\fonttbl{\f0 Calibri;}{\f1 Times New Roman;}{\f2 Arial;}}
+
+{\colortbl;\red0\green0\blue0;\red0\green0\blue0;}
+
+{\*\listtable{\list\listtemplateid58296\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1{\leveltext\leveltemplateid9202\'02\'00.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1{\leveltext\leveltemplateid4225\'02\'01.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1{\leveltext\leveltemplateid761\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1{\leveltext\leveltemplateid6298\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1{\leveltext\leveltemplateid9437\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1{\leveltext\leveltemplateid783\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1{\leveltext\leveltemplateid125\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1{\leveltext\leveltemplateid4176\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1{\leveltext\leveltemplateid5092\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listname ;}\listid52163}
+{\*\listoverridetable{\listoverride\listid52163\listoverridecount0\ls1}}{\list\listtemplateid96140\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat2{\leveltext\leveltemplateid4417\'02\'00.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat2{\leveltext\leveltemplateid6117\'02\'01.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat2{\leveltext\leveltemplateid8570\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat2{\leveltext\leveltemplateid915\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat2{\leveltext\leveltemplateid7025\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat2{\leveltext\leveltemplateid1871\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat2{\leveltext\leveltemplateid2007\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat2{\leveltext\leveltemplateid6848\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat2{\leveltext\leveltemplateid7515\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listname ;}\listid39440}
+{\*\listoverridetable{\listoverride\listid39440\listoverridecount0\ls2}}{\list\listtemplateid1695\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3{\leveltext\leveltemplateid7309\'02\'00.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3{\leveltext\leveltemplateid325\'02\'01.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3{\leveltext\leveltemplateid6780\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3{\leveltext\leveltemplateid2359\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3{\leveltext\leveltemplateid1479\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3{\leveltext\leveltemplateid9138\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3{\leveltext\leveltemplateid9996\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3{\leveltext\leveltemplateid821\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3{\leveltext\leveltemplateid8843\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listname ;}\listid70081}
+{\*\listoverridetable{\listoverride\listid70081\listoverridecount0\ls3}}{\list\listtemplateid26988\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4{\leveltext\leveltemplateid9337\'02\'00.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4{\leveltext\leveltemplateid8555\'02\'01.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4{\leveltext\leveltemplateid1775\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4{\leveltext\leveltemplateid1027\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4{\leveltext\leveltemplateid3185\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4{\leveltext\leveltemplateid6502\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4{\leveltext\leveltemplateid3461\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4{\leveltext\leveltemplateid1356\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4{\leveltext\leveltemplateid5013\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listname ;}\listid245}
+{\*\listoverridetable{\listoverride\listid245\listoverridecount0\ls4}}{\list\listtemplateid24038\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow1\levelstartat0{\leveltext\leveltemplateid6695\'013;}{\levelnumbers;}\f0\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow1\levelstartat0{\leveltext\leveltemplateid6048\'013;}{\levelnumbers;}\f0\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow1\levelstartat0{\leveltext\leveltemplateid439\'013;}{\levelnumbers;}\f0\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow1\levelstartat0{\leveltext\leveltemplateid3809\'013;}{\levelnumbers;}\f0\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow1\levelstartat0{\leveltext\leveltemplateid6659\'013;}{\levelnumbers;}\f0\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow1\levelstartat0{\leveltext\leveltemplateid7987\'013;}{\levelnumbers;}\f0\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow1\levelstartat0{\leveltext\leveltemplateid7986\'013;}{\levelnumbers;}\f0\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow1\levelstartat0{\leveltext\leveltemplateid7082\'013;}{\levelnumbers;}\f0\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow1\levelstartat0{\leveltext\leveltemplateid2113\'013;}{\levelnumbers;}\f0\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listname ;}\listid76906}
+{\*\listoverridetable{\listoverride\listid76906\listoverridecount0\ls5}}{\list\listtemplateid41086\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow1\levelstartat0{\leveltext\leveltemplateid1946\'013;}{\levelnumbers;}\f0\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow1\levelstartat0{\leveltext\leveltemplateid6954\'013;}{\levelnumbers;}\f0\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow1\levelstartat0{\leveltext\leveltemplateid3304\'013;}{\levelnumbers;}\f0\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow1\levelstartat0{\leveltext\leveltemplateid5188\'013;}{\levelnumbers;}\f0\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow1\levelstartat0{\leveltext\leveltemplateid5783\'013;}{\levelnumbers;}\f0\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow1\levelstartat0{\leveltext\leveltemplateid9514\'013;}{\levelnumbers;}\f0\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow1\levelstartat0{\leveltext\leveltemplateid8997\'013;}{\levelnumbers;}\f0\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow1\levelstartat0{\leveltext\leveltemplateid8155\'013;}{\levelnumbers;}\f0\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow1\levelstartat0{\leveltext\leveltemplateid3273\'013;}{\levelnumbers;}\f0\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listname ;}\listid9892}
+{\*\listoverridetable{\listoverride\listid9892\listoverridecount0\ls6}}{\list\listtemplateid819\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow1\levelstartat0{\leveltext\leveltemplateid6869\'013;}{\levelnumbers;}\f0\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow1\levelstartat0{\leveltext\leveltemplateid7804\'013;}{\levelnumbers;}\f0\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow1\levelstartat0{\leveltext\leveltemplateid8489\'013;}{\levelnumbers;}\f0\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow1\levelstartat0{\leveltext\leveltemplateid9606\'013;}{\levelnumbers;}\f0\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow1\levelstartat0{\leveltext\leveltemplateid4336\'013;}{\levelnumbers;}\f0\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow1\levelstartat0{\leveltext\leveltemplateid9696\'013;}{\levelnumbers;}\f0\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow1\levelstartat0{\leveltext\leveltemplateid7444\'013;}{\levelnumbers;}\f0\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow1\levelstartat0{\leveltext\leveltemplateid5410\'013;}{\levelnumbers;}\f0\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow1\levelstartat0{\leveltext\leveltemplateid6235\'013;}{\levelnumbers;}\f0\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li720\lin720}
+{\listname ;}\listid22066}
+{\*\listoverridetable{\listoverride\listid22066\listoverridecount0\ls7}}}
+
+\paperw11906\paperh16838\margl1440\margr720\margt2200\margb720\headery0\footery0\nouicompat\lnbrkrule\paperw11906\paperh16838
+ \sectd{\dntblnsbdb\pgwsxn11906\pghsxn16838\marglsxn1416\margrsxn720\margtsxn1295\margbsxn660\headery0\footery0\sectdefaultcl
+
+{\pard\ql\fi0\li0\ri-22\sb0\sl-270\slmult0\f0\cf1\fs22\b0\i0 \expndtw0 LES ELEMENTS A REUNIR POUR CONCEVOIR SON SITE INTERNET \par}
+
+{\pard\ql\fi0\li0\ri-22\sb0\sl-200\slmult0\f1\cf2\fs20\b0\i0 \expndtw0  \par}
+
+{\pard\ql\fi0\li0\ri-22\sb0\sl-200\slmult0\f1\cf2\fs20\b0\i0 \expndtw0  \par}
+
+{\pard\ql\fi0\li0\ri-22\sb0\sl-200\slmult0\f1\cf2\fs20\b0\i0 \expndtw0  \par}
+
+{\pard\ls1\ql\fi0\li360\ri-22\sb0\sl-270\slmult0\f0\cf1\fs22\b0\i0 \expndtw1 \f2\cf1\fs22\b0\i0 \expndtw0  \f0\cf1\fs22\b0\i0 \expndtw1 Pr�sentation de la Soci�t� ou de l\u8217?organisation \par}
+
+{\pard\ql\fi0\li720\ri-22\sb0\sl-270\slmult0\f0\cf1\fs22\b0\i0 \expndtw1 10 lignes de la taille 12 sur page A4. Photos symbolique ou r�elle num�ris�e de l\u8217?entreprise. \par}
+
+{\pard\ql\fi0\li0\ri-22\sb0\sl-200\slmult0\f1\cf2\fs20\b0\i0 \expndtw0  \par}
+
+{\pard\ql\fi0\li0\ri-22\sb0\sl-200\slmult0\f1\cf2\fs20\b0\i0 \expndtw0  \par}
+
+{\pard\ql\fi0\li0\ri-22\sb0\sl-160\slmult0\f1\cf2\fs20\b0\i0 \expndtw0  \par}
+
+{\pard\ls2\ql\fi0\li360\ri-22\sb0\sl-270\slmult0\f0\cf1\fs22\b0\i0 \expndtw1 \f2\cf1\fs22\b0\i0 \expndtw0  \f0\cf1\fs22\b0\i0 \expndtw0 La mission ou les objectifs \par}
+
+{\pard\ql\fi0\li720\ri-22\sb0\sl-270\slmult0\f0\cf1\fs22\b0\i0 \expndtw0 10 lignes de la taille 12 su page A4. Photos symbolique des objectifs ou de la mission. \par}
+
+{\pard\ql\fi0\li0\ri-22\sb0\sl-200\slmult0\f1\cf2\fs20\b0\i0 \expndtw0  \par}
+
+{\pard\ql\fi0\li0\ri-22\sb0\sl-200\slmult0\f1\cf2\fs20\b0\i0 \expndtw0  \par}
+
+{\pard\ql\fi0\li0\ri-22\sb0\sl-160\slmult0\f1\cf2\fs20\b0\i0 \expndtw0  \par}
+
+{\pard\ls3\ql\fi0\li360\ri-22\sb0\sl-270\slmult0\f0\cf1\fs22\b0\i0 \expndtw1 \f2\cf1\fs22\b0\i0 \expndtw0  \f0\cf1\fs22\b0\i0 \expndtw0 L\u8217?Equipe dirigeante ou la biographie du fondateur. \par}
+
+{\pard\ql\fi0\li720\ri-22\sb0\sl-270\slmult0\f0\cf1\fs22\b0\i0 \expndtw1 10 lignes de la taille 12 sur page A4. Photo du fondateur ou de l\u8217?�quipe dirigeante. \par}
+
+{\pard\ql\fi0\li0\ri-22\sb0\sl-200\slmult0\f1\cf2\fs20\b0\i0 \expndtw0  \par}
+
+{\pard\ql\fi0\li0\ri-22\sb0\sl-200\slmult0\f1\cf2\fs20\b0\i0 \expndtw0  \par}
+
+{\pard\ql\fi0\li0\ri-22\sb0\sl-160\slmult0\f1\cf2\fs20\b0\i0 \expndtw0  \par}
+
+{\pard\ls4\ql\fi0\li360\ri-22\sb0\sl-270\slmult0\f0\cf1\fs22\b0\i0 \expndtw1 \f2\cf1\fs22\b0\i0 \expndtw0  \f0\cf1\fs22\b0\i0 \expndtw0 Les D�partements ou succursales \par}
+
+{\pard\ls5\qj\fi0\li720\ri731\sb0\sl-280\slmult0\f0\cf1\fs22\b0\i0 \expndtw0  lignes de la taille 12 sur page A4 par d�partement. Photos symbolique ou r�elle num�ris�e\f0\cf1\fs22\b0\i0 \expndtw0  du d�partement. \par}
+
+{\pard\ql\fi0\li0\ri-22\sb0\sl-200\slmult0\f1\cf2\fs20\b0\i0 \expndtw0  \par}
+
+{\pard\ql\fi0\li0\ri-22\sb0\sl-80\slmult0\f1\cf2\fs20\b0\i0 \expndtw0  \par}
+
+{\pard\ls4\ql\fi0\li360\ri-22\sb0\sl-270\slmult0\f0\cf1\fs22\b0\i0 \expndtw1 \f2\cf1\fs22\b0\i0 \expndtw0  \f0\cf1\fs22\b0\i0 \expndtw0 Les produits et services  \par}
+
+{\pard\ls6\qj\fi0\li720\ri1522\sb0\sl-280\slmult0\f0\cf1\fs22\b0\i0 \expndtw0  lignes de la taille 12 sur page A4 par produit ou service. Et les photos des produits\f0\cf1\fs22\b0\i0 \expndtw0  num�ris�es. \par}
+
+{\pard\ql\fi0\li0\ri-22\sb0\sl-200\slmult0\f1\cf2\fs20\b0\i0 \expndtw0  \par}
+
+{\pard\ql\fi0\li0\ri-22\sb0\sl-80\slmult0\f1\cf2\fs20\b0\i0 \expndtw0  \par}
+
+{\pard\ls4\ql\fi0\li360\ri-22\sb0\sl-270\slmult0\f0\cf1\fs22\b0\i0 \expndtw1 \f2\cf1\fs22\b0\i0 \expndtw0  \f0\cf1\fs22\b0\i0 \expndtw0 Le portfolio ou r�alisations \par}
+
+{\pard\ls7\ql\fi0\li720\ri-22\sb0\sl-270\slmult0\f0\cf1\fs22\b0\i0 \expndtw0  lignes par r�alisation et les photos num�ris�es.\par}
+
+{\pard\ql\fi0\li0\ri-22\sb0\sl-200\slmult0\f1\cf2\fs20\b0\i0 \expndtw0  \par}
+
+{\pard\ql\fi0\li0\ri-22\sb0\sl-80\slmult0\f1\cf2\fs20\b0\i0 \expndtw0  \par}
+
+{\pard\ls4\ql\fi0\li360\ri-22\sb0\sl-270\slmult0\f0\cf1\fs22\b0\i0 \expndtw1 \f2\cf1\fs22\b0\i0 \expndtw0  \f0\cf1\fs22\b0\i0 \expndtw0 L\u8217?adresse et les coordonn�es de contact. \par}
+
+{\pard\ql\fi0\li0\ri-22\sb0\sl-200\slmult0\f1\cf2\fs20\b0\i0 \expndtw0  \par}
+
+{\pard\ql\fi0\li0\ri-22\sb0\sl-80\slmult0\f1\cf2\fs20\b0\i0 \expndtw0  \par}
+
+{\pard\ls4\ql\fi0\li360\ri-22\sb0\sl-270\slmult0\f0\cf1\fs22\b0\i0 \expndtw1 \f2\cf1\fs22\b0\i0 \expndtw0  \f0\cf1\fs22\b0\i0 \expndtw0 Les documents : d�pliants, statuts\u8230? si possible (num�ris�s). \par}
+\sect
+}}
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utl-8" />
+		<title>www.npmiesifoundation.com</title>
+		
+	</head>
+	
+	<body>
+	
+	<div id="bloc_page">
+		<header>
+		<p>FAIRE UN DON ICI</p>
+		<div>
+		<div> 
+	</p></strong>
+	</div>
+		</div>
+		</header>
+		</div>
+				<section>
+					<article>
+					
+					</article>
+					<aside>
+					
+					</aside>
+				</section>
+	<footer>
+	
+	
+	
+	</footer>
+	</div>
+	
+	
+	
+	
+	</body>
+	
+	
+	
+	</html>
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utl-8" />
+		<title>www.npmiesifoundation.com</title>
+		
+	</head>
+	
+	<body>
+	
+	<div id="bloc_page">
+		<header>
+			<div id="titre_principal">
+				<img src="logo.png" alt="logo" />
+				<h1>NP Foundation</h1>
+				<h2></h2>
+				<p><img src="PHOTO/C2.jpg" alt="Photographie" /></p>
+	<p><img src="PHOTO/C3.jpg" alt="Photographie" /></p>
+			</div>
+			
+			
+		</header>
+		<div>
+		
+		</div>
+		
+		</div>
+				<section>
+					<article>
+					
+					</article>
+					<aside>
+					
+					</aside>
+				</section>
+	<footer>
+	
+	<div id="">
+	<h1></h1>
+	<p></p>
+	
+	</div>
+	
+	</footer>
+	</div>
+	
+	
+	
+	
+	</body>
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utl-8" />
+		<title>www.npmiesifoundation.com</title>
+		
+	</head>
+	
+	<body>
+	
+	<div id="bloc_page">
+		<header>
+			<div id="titre_principal">
+				<img src="logo.png" alt="logo" />
+				<h1>NP Foundation</h1>
+				<h2></h2>
+				<p><img src="PHOTO/C2.jpg" alt="Photographie" /></p>
+	<p><img src="PHOTO/C3.jpg" alt="Photographie" /></p>
+			</div>
+			
+			
+		</header>
+		<div>
+		
+		</div>
+		
+		</div>
+				<section>
+					<article>
+					
+					</article>
+					<aside>
+					
+					</aside>
+				</section>
+	<footer>
+	
+	<div id="">
+	<h1></h1>
+	<p></p>
+	
+	</div>
+	
+	</footer>
+	</div>
+	
+	
+	
+	
+	</body>
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utl-8" />
+	
+		<title>www.npmiesifoundation.com</title>
+		
+	</head>
+	
+	<body>
+	
+	<div id="bloc_page">
+		<header>
+			<div id="NOS AXES">
+			<h1>NOS AXES </h1>
+				<h2>AIDE HUMANITAIRE </h2>
+					<p> N.P.M.F est d'aider les enfants et les orphelins qui sont particulièrement dans le besoin, les jeunes qui font l'objet de discrimination dans tous les domaines. Nous sommes là pour encourager, motiver, soutenir les orphelins et les familles souffrant de troubles mentaux et d'apprentissage et des maladies chroniques tels que les enfants du kasaï qui souffrent de malnutrition. Notre objectif est de protéger et de subvenir aux besoins des orphelins qui ont été abandonnés ou ont été abusés sexuellement, physiquement et qui peuvent avoir été touchés par des maladies telles que le VIH.</p>
+					<p><img src="PHOTO/AIDE1.jpg" alt="AIDE1" />, <img src="PHOTO/AIDE2.jpg" alt="AIDE2" /</p>
+					
+					<h2>ENTREPRENEURIAT</h2>
+					<p>. Il a un caractère social et éducatif humanitaire, nous invitons chacun à participer à notre progrès et à notre développement intégral dans tous les secteurs et à aider à mettre en place l'idée principale qui est  de façonner un nouveau type de citoyen ou en d'autres termes d'éveiller et de cultiver la conscience des jeunes à  appartenir à la société.</p
+					<p><img src="PHOTO/DECO3.jpg" alt="DECO3" /></p>
+						<p></p>
+							<h2>AGRICULTURE ET ÉLEVAGE </h2>
+							<p><img src="PHOTO/DEC.png" alt="DEC" /></p> <p><img src="PHOTO/DEC2.jpg" alt="DEC2C" /></p>		<p>Création des fermes agroalimentaires pour aider la population et éradiqué la faim, aussi  lutter contre le chômage qui bat son plein en République Démocratique du Congo. </p>
+						
+						<h2>INDUSTRIEL ET ÉLECTRONIQUE</h2>
+						<ul><strong>
+		<li>Panneau solaire </li>
+		<li>Forage</li>
+		<li>Investissement dans l'immobilier</li>
+	</ul></strong>
+						
+							
+				<p></p>
+			
+				
+			</div>
+			
+				
+		</header>
+		
+	<footer>
+	
+	<div id="">
+	<h1></h1>
+	<p></p>
+	
+	</div>
+	
+	</footer>
+	</div>
+	
+	
+	
+	
+	</body>
+	
+	
+	
+	</html>
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utl-8" />
+	
+		
+	</head>
+	
+	<body>
+	
+	<div id="bloc_page">
+		<header>
+			<div id="titre_principal">
+				<img src="logo.png" alt="logo" />
+				<h1></h1>
+				<h2></h2>
+				
+			</div>
+			
+				<nav>
+					
+				</nav>
+		</header>
+		<div>
+		
+		</div>
+		
+		</div>
+				<section>
+					<article>
+					
+					</article>
+					<aside>
+					
+					</aside>
+				</section>
+	<footer>
+	
+	<div id="">
+	<h1></h1>
+	</div>
+	
+	</footer>
+	</div>
+	
+
+	
+	</body>
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utl-8" />
+		<link rel="stylesheet" href="style1.css" />
+		<title>www.npmiesifoundation.com</title>
+		
+	</head>
+	
+	<body>
+	
+	<div id="bloc_page">
+		<header>
+			<div id="titre_principal">
+				<img src="logo.png" alt="logo" />
+				<h1>LES ACTIONS DE LA FONDATION</h1>
+				<h2></h2>
+				
+			</div>
+			
+				<nav>
+					<ul><strong>
+					<li> <a href="#"></a></li>
+					<li> <a href="#"></a></li>
+					<li> <a href="#"></a></li>
+					<li> <a href="#"></a></li>
+					<li> <a href="#"></a></li>
+					</ul></strong>
+				</nav>
+		</header>
+		<div>
+		
+		</div>
+		
+		</div>
+				<section>
+					<article>
+					
+					</article>
+					<aside>
+					
+					</aside>
+				</section>
+	<footer>
+	
+	<div id="">
+	<h1></h1>
+	<p></p>
+	<p></p>
+	<ul><strong>
+		<li> </li>
+		<li>  </li>
+		<li>  </li>
+		<li>  </li>
+		<li>  </li>
+	</ul></strong>
+	
+	</div>
+	
+	</footer>
+	</div>
+	
+	
+	
+	
+	</body>
+	
+	
+	
+	</html>
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utl-8" />
+	
+		<title>www.npmiesifoundation.com</title>
+		
+	</head>
+	
+	<body>
+	
+	<div id="bloc_page">
+		<header>
+			<div id="NOS AXES">
+			<h1>OUR AXES</h1>
+				<h2>HUMANITARIAN AID</h2>
+					<p>N.P.M.F is to help children and orphans who are particularly in need, young people who are discriminated against in all areas. We are here to encourage, motivate, support orphans and families suffering from mental and learning disorders and chronic illnesses such as children from Kasai who suffer from malnutrition. Our goal is to protect and support orphans who have been abandoned or abused sexually, physically and who may have been affected by diseases such as HIV.</p>
+					<p><img src="PHOTO/AIDE1.jpg" alt="AIDE1" />, <img src="PHOTO/AIDE2.jpg" alt="AIDE2" /</p>
+					
+					<h2>ENTREPRENEURSHIP</h2>
+					<p>It has a humanitarian social and educational character, we invite everyone to participate in our progress and integral development in all sectors and to help implement the main idea which is to shape a new type of citizen or in other words to awaken and cultivate the awareness of young people to belong to society.</p
+					<p><img src="PHOTO/DECO3.jpg" alt="DECO3" /></p>
+						<p></p>
+							<h2>AGRICULTURE AND LIVESTOCK</h2>
+							<p><img src="PHOTO/DEC.png" alt="DEC" /></p> <p><img src="PHOTO/DEC2.jpg" alt="DEC2C" /></p> <p>Creation of agri-food farms to help the population and eradicate hunger, also to fight against unemployment which is in full swing in the Democratic Republic of Congo. </p>
+						
+						<h2>INDUSTRIAL AND ELECTRONIC</h2>
+						<ul><strong>
+		<li>Solar panel</li>
+		<li>Drilling</li>
+		<li>Investment in real estate</li>
+	</ul></strong>
+						
+							
+				<p></p>
+			
+				
+			</div>
+			
+				
+		</header>
+		
+	<footer>
+	
+	<div id="">
+	<h1></h1>
+	<p></p>
+	
+	</div>
+	
+	</footer>
+	</div>
+	
+	
+	
+	
+	</body>
+	
+	
+	
+	</html>
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utl-8" />
+	
+		
+	</head>
+	
+	<body>
+	
+	<div id="bloc_page">
+		<header>
+			<div id="titre_principal">
+				<img src="logo.png" alt="logo" />
+				<h1></h1>
+				<h2></h2>
+				
+			</div>
+			
+				<nav>
+					
+				</nav>
+		</header>
+		<div>
+		
+		</div>
+		
+		</div>
+				<section>
+					<article>
+					
+					</article>
+					<aside>
+					
+					</aside>
+				</section>
+	<footer>
+	
+	<div id="">
+	<h1></h1>
+	</div>
+	
+	</footer>
+	</div>
+	
+
+	
+	</body>
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utl-8" />
+		<link rel="stylesheet" href="style1.css" />
+		<title>www.npmiesifoundation.com</title>
+		
+	</head>
+	
+	<body>
+	
+	<div id="bloc_page">
+		<header>
+			<div id="titre_principal">
+				<img src="logo.png" alt="logo" />
+				<h1>LES ACTIONS DE LA FONDATION</h1>
+				<h2></h2>
+				
+			</div>
+			
+				<nav>
+					<ul><strong>
+					<li> <a href="#"></a></li>
+					<li> <a href="#"></a></li>
+					<li> <a href="#"></a></li>
+					<li> <a href="#"></a></li>
+					<li> <a href="#"></a></li>
+					</ul></strong>
+				</nav>
+		</header>
+		<div>
+		
+		</div>
+		
+		</div>
+				<section>
+					<article>
+					
+					</article>
+					<aside>
+					
+					</aside>
+				</section>
+	<footer>
+	
+	<div id="">
+	<h1></h1>
+	<p></p>
+	<p></p>
+	<ul><strong>
+		<li> </li>
+		<li>  </li>
+		<li>  </li>
+		<li>  </li>
+		<li>  </li>
+	</ul></strong>
+	
+	</div>
+	
+	</footer>
+	</div>
+	
+	
+	
+	
+	</body>
+	
+	
+	
+	</html>
+/* Elément principal de la page */
+body
+{
+	font-family : tahoma, arial;
+	background-image: url("AR.png");
+	background-attachment :repeat-y;
+	background-position : auto;
+	background-repeat : auto;
+}
+
+#bloc_Page 
+{
+	width : 900px;
+	margin : auto;
+
+}
+
+@media screen and (min-width: 900px)
+{
+	#bloc_Page 
+	{
+	width : 900px;
+	}
+	
+}
+
+
+
+
+h1
+{
+	font-family : arial, sans-serife;
+	font-size : 25px;
+	color : #fcb201;
+}
+
+Section h1, footer h1, nav a
+{
+	font-family : arial, sans-serife;
+	font-weight : normal; 
+	texte-transform : upperease;
+}
+
+
+/* header */
+
+header 
+{
+ 	background : url('sep.png')repeat-x bottom;
+	
+	
+	
+}
+
+#titre_principal
+{
+	display : inline-block;
+}
+
+header h1
+{
+	font-family : arial, tahoma, sans serife;
+	color : white; 
+	font-size : 50px;
+	
+}
+
+#logo, header h1
+{
+	display : inline-block;
+	margin-bottom : 0px;
+}
+
+header h2 
+{
+	font-family : arial, tahoma, sans serife;
+	color : white; 
+	font-size : 40px;
+	margin-top : 0px;
+	font-weight :inline-block;
+	text-align : right
+}
+
+/* Navigation */
+
+nav
+{
+	display : inline-block;
+	width : 1150px;
+	text-align : right;
+}
+
+nav li
+{
+	list-style-type : none;
+}
+
+nav li
+{
+	display : inline-block;
+	margin-right : 50px;
+}
+
+nav a
+{
+	font-size : 25px;
+	color : white;
+	padding-bottom : 3px;
+	text-decoration : none;
+}
+
+nav a:hover
+{
+	color : red;
+	border-bottom : 3px solid #7600001;
+}
+
+/* Corps */
+
+article, aside
+{
+	display : inline-block;
+	vertical-align: top;
+	text-align : justify;
+}
+
+article
+{
+	width : 625px;
+	margin-right : 15px;
+}
+
+.ico_categorie
+{
+	vertical-align : middle;
+	margin-right : 8px;
+}
+
+article p
+{
+	font-size : 20px;
+	color : white;
+	font-family : arial, sans-serife;
+}
+
+aside
+{
+	Position : relative;
+	width : 400px;
+	background-color : #015c8c;
+	box-shadow : 0px 2px 5px #101019;
+	border-radius : 10px;
+	padding : 80px;
+	color : white; 
+	font-size: 15px;
+}
+
+#photo_PROFIL 02
+{
+	text-align : center;
+	
+	
+}
+
+#photo_PROFIL 02 img
+{
+	border : 5px solid #181818;
+	
+}
+
+#aside_img
+{
+	display: inline-block;
+
+}
+
+
+
+/* Footer */
+
+footer
+{
+	background-color : sans-color;
+	padding-top : 15px;
+	
+	
+}
+
+
+
+footer P 
+{
+	background-image: url("bac.png");
+	background-repeat : center;
+	font-size : 15px;
+	font-family : tahoma, sans-serife; 
+	color : white;
+}
+
+#MES_IMAGES, #NOS_OFFRES
+{
+	display : inline-block;
+	width : 1150px;
+	text-align : center-left;
+}
+
+footer ul
+{
+	display: inline-block;
+	text-align : center-left;
+	font-size : 15px;
+	font-family : tahoma, sans-serife; 
+	color : black;
+}
+
+
+
+
+
+/* Elément principal de la page */
+body
+{
+	font-family : tahoma, arial;
+	background-color: gray;
+	background-attachment :fixed;
+	width : 900px;
+	margin : center;
+	
+	
+}
+
+#bloc_Page 
+{
+	width : 900px;
+	margin : auto;
+
+}
+
+h1
+{
+	font-family : arial, sans-serife;
+	font-size : 25px;
+	color : white;
+}
+
+
+h2
+{
+	font-family : arial, sans-serife;
+	font-size : 25px;
+	color : red;
+}
+
+
+Section h1, footer h1, nav a
+{
+	font-family : arial, sans-serife;
+	font-weight : normal; 
+	texte-transform : upperease;
+}
+
+
+/* header */
+
+header 
+{
+ 	
+	
+	
+	
+}
+
+#titre_principal
+{
+	display : inline-block;
+}
+
+header h1
+{
+	font-family : arial, tahoma, sans serife;
+	color : white; 
+	font-size : 50px;
+	
+}
+
+#logo, header h1
+{
+	display : inline-block;
+	margin-bottom : 0px;
+}
+
+p 
+{
+	font-family : arial, tahoma, sans serife;
+	color : white; 
+	font-size : 20px
+	text-align : center-left
+}
+
+#li 
+{
+	font-family : arial, tahoma, sans serife;
+	color : white; 
+	font-size : 20px
+	text-align : center-left
+}
+
+
+
+
+
+
+aside h1
+{
+	font-family : arial, tahoma, sans serife;
+	color : white; 
+	font-size : 50px;
+	margin-top : 40px;
+	font-weight :inline-block;
+	text-align : center;
+}
+
+
+aside
+{
+	font-family : arial, tahoma, sans serife;
+	color : white; 
+	font-size : 15px;
+	margin-top : 40px;
+	font-weight :inline-block;
+	text-align : center;
+}
+
+
+
+#Menu li
+{
+	display : inline-block;
+	width : 940px;
+	text-align : right;
+}
+
+#Menu ul li a 
+{
+	list-style-type : none;
+}
+
+
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+		<meta charset="utl-8" />
+		<link rel="stylesheet" href="style.css" media="screen and (min-width: 900px)" />
+		<link rel="stylesheet" href='style2.css' type"text/css" />
+		<title>www.npmiesifoundation.com</title>
+		
+		
+		
+		
+			<!--[if IE 9]><body class="ie9">< [endif]-->
+			<!--[if IE]><body>< !--[endif]-->
+		
+		
+	</head>
+	
+	<body>
+	<div id="bloc_page">
+		<header>
+			<ul>
+				<div id="Menu">
+				
+				<li> 
+				<a href="#">Langue</a>
+				</li>
+				<ul>
+				<li><a href="Anglais.html">Anglais</a></li>
+				<li><a href="websitenpfoundation.html">Français</a></li>
+				</ul>
+				
+				
+				</div>
+			
+			</ul>		
+		
+		
+			<div id="titre_principal">
+				<img src="logo.png" alt="logo" />
+				<h1>NP MIESI FONDATION</h1>
+				<h2>Bienvenue</h2>
+				
+				
+				
+			</div>
+			
+				<nav>
+				<nav><li><a href="FAIRE UN DON.html">FAIRE UN DON</a></li></nav>
+					<p><ul><strong>
+					<li><a href="FONDATION.html">FONDATION</a></li>
+					<li> <a href="NOS AXES.html">NOS AXES</a></li>
+					<li> <a href="NOS PROJETS.html">NOS PROJETS</a></li>
+					<li> <a href="CONTACT.html">CONTACT</a></li>
+					</ul></strong>
+					</p>
+				</nav>
+		</header>
+		<div id="banniere_image">
+		<div id="description_banniere">
+				<div> <img src="PHOTO/image de profil web.jpg" alt="image de profil web" /></div>
+		retrouvez nos actions 
+		</div>
+		
+		</div>
+				<section>
+					<article>
+					<h1><img src="PHOTO/bouton.png" alt="Categor bouton" />PRÉAMBULE</h1>
+					
+						<p> Pour s’impliquer initialement dans l’assistance humanitaire et de la promotion des initiatives féminines en république démocratique du Congo NZUZI MIESI Fondation, conscient de l’avenir et de notre poids démographique,  a pris l’initiative d’apporter nos énergies positives et capacités intrinsèques pour le développement de notre nation.</p>
+						<p>Convaincu que ces idées ne peuvent être l’œuvre réfléchies et, conscient de la nécessité de pouvoir avoir un cadre de réflexion en vue de répondre à cet idéal. </p>
+						<p>Estimant que l’heure est venue enfin que chaque congolais donne le meilleure de soi-même en s’engageant dans la contribution multisectorielle des populations tout en abordant des stratégie alternatives pour le changement immédiat dans différents domaines pour un lendemain meilleur de notre très cher et beau pays, république démocratique du Congo.</p>
+						<p>Attendu qu’il y a lieu pour ceux encore vivants de baliser un parcours d’espoir susceptible d’induire au changement immédiat dans différents domaines pour lendemain meilleur de notre cher et beau pays. </p>
+						<p>Considérant que dans la fondation, tous les membres sont égaux sur le plan d’assistance, droits et devoirs pour l’évolution de notre structure. </p>
+						<p>Conscients de nos responsabilités devant DIEU et la Nation Congolaise, a décidé Madame NZUZI MIESI Pisthou de mettre en place une fondation à caractère humanitaire, socioéducatif, environnement et culturelle dénommée : « NZUZI MIZSI FONDATION » en sigle « N.M.F »  </p>
+					</article>
+					<aside>
+						<h2>Fondatrice/ONG</h2>
+						<p><img src="PHOTO/PROFIL 02.jpg" alt="PROFIL 02" /></p>
+						<p>NP MIESI FOUNDATION est créé en date du 17/6/2020 à l’initiative de Madame NZUZI MIESI 
+						une fondation d’utilité publique à vocation humanitaire.</p>
+						<p>NZUZI MIESI FOUNDATION  « N.M.F » 
+Conformément à la loi n° 004/2001 du 20 juillet 2001  portant dispositions générales applicables aux associations sans but lucratif et établissement d’utilité publique telle que modifié à ce jour.  
+Le Siège social principal  de la fondation aux appartements  RCM9D/177 Nouvelles galeries présidentielles C/Gombe 
+</p>
+					
+						
+					</aside>
+				</section>
+	<footer>
+	
+	<div>
+	<div id="MES_IMAGES">
+					<nav>
+					<p><ul><strong>
+					<li><a href="MES IMAGES.html">NOS IMAGES </a></li>
+					</ul></strong>
+					</p>
+				</nav>
+	
+	<img src="PHOTO/profil1.jpg" alt="Photographie" /><img src="PHOTO/profil3.jpg" alt="Photographie" />
+	<img src="PHOTO/CELEB1.jpg" alt="Photographie" /><img src="PHOTO/DEC2.jpg" alt="Photographie" />
+	</div>
+	<div id="NOS_OFFRES">
+				<nav>
+					<p><ul><strong>
+					<li><a href="NOS OFFRES.html">NOS OFFRES</a></li>
+					</ul></strong>
+					</p>
+				</nav>
+	
+	</div>
+	<div>
+	
+	<p>Les Documents : Dépliants, Statuts Veuillez télécharger ici le document statut de la fondaton<br/>Veuillez nous contacter par le numero<br/><strong>
+	L’Adresse et les Coordonnées de Contact: D1-2 Arthouse 9 handyside street N1c 4ay 07462992208 www.npmiesifoundation.com 
+	</p></strong>
+	</div>
+	
+	</footer>
+	</div>
+	</div>
+	</body>
+	
+	
+	
+	</html>
